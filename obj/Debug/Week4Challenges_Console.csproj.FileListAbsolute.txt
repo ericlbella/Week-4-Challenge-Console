@@ -1,0 +1,10 @@
+C:\Users\ericl\ElevenFiftyProjects\Week4Challenges_Console\obj\Debug\Week4Challenges_Console.csprojAssemblyReference.cache
+C:\Users\ericl\ElevenFiftyProjects\Week4Challenges_Console\obj\Debug\Week4Challenges_Console.csproj.CoreCompileInputs.cache
+C:\Users\ericl\ElevenFiftyProjects\Week4Challenges_Console\bin\Debug\Week4Challenges_Console.exe.config
+C:\Users\ericl\ElevenFiftyProjects\Week4Challenges_Console\bin\Debug\Week4Challenges_Console.exe
+C:\Users\ericl\ElevenFiftyProjects\Week4Challenges_Console\bin\Debug\Week4Challenges_Console.pdb
+C:\Users\ericl\ElevenFiftyProjects\Week4Challenges_Console\bin\Debug\Week4Challenge_Library.dll
+C:\Users\ericl\ElevenFiftyProjects\Week4Challenges_Console\bin\Debug\Week4Challenge_Library.pdb
+C:\Users\ericl\ElevenFiftyProjects\Week4Challenges_Console\obj\Debug\Week4Challenges_Console.csproj.CopyComplete
+C:\Users\ericl\ElevenFiftyProjects\Week4Challenges_Console\obj\Debug\Week4Challenges_Console.exe
+C:\Users\ericl\ElevenFiftyProjects\Week4Challenges_Console\obj\Debug\Week4Challenges_Console.pdb
